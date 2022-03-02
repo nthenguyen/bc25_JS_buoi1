@@ -1,0 +1,14 @@
+.thong-Bao {
+  background: #673ab7;
+  color: white;
+  width: auto;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+input,
+button {
+  display: block;
+  margin: 5px;
+}
